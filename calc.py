@@ -32,7 +32,6 @@ def step(monomials):
 
             # solve
             i = 0
-            out = 0
             
             for op in ops:
                 a = numbers[i]
